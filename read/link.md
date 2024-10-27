@@ -25,5 +25,5 @@ has_children: false
 
 ## Just the Docs
 
-* [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
+* [Just the Docs](https://just-the-docs.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
 * [Demo](https://pmarsceill.github.io/jtd-remote/) ([GitHub](https://github.com/pmarsceill/jtd-remote))
