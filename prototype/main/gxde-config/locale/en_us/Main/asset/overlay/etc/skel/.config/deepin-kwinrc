@@ -48,6 +48,7 @@ WobblynessLevel=4
 Meta=
 
 [MouseBindings]
+CommandAllKey=Meta
 CommandAllWheel=Change Opacity
 CommandTitlebarWheel=Shade/Unshade
 
