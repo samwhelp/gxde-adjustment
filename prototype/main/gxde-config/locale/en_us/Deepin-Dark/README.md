@@ -1,9 +1,18 @@
 
 
-# Lingmo Adjustment
+# Gxde Adjustment
 
+* [Link](#link)
 * [Config File](#config-file)
 * [Howto](#howto)
+
+
+
+
+## Link
+
+* deepin-kwin / src / [kwin.kcfg](https://github.com/GXDE-OS/deepin-kwin/blob/5.24/src/kwin.kcfg#L7)
+
 
 
 
