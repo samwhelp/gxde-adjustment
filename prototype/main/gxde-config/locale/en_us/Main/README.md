@@ -2,16 +2,17 @@
 
 # Gxde Adjustment
 
-* [Link](#link)
+* [Source Code](#source-code)
 * [Config File](#config-file)
 * [Howto](#howto)
 
 
 
 
-## Link
+## Source Code
 
 * deepin-kwin / src / [kwin.kcfg](https://github.com/GXDE-OS/deepin-kwin/blob/5.24/src/kwin.kcfg#L7)
+* deepin-kwin / configures / [deepin-kwinrc](https://github.com/GXDE-OS/deepin-kwin/blob/5.24/configures/deepin-kwinrc#L96-L106)
 
 
 
