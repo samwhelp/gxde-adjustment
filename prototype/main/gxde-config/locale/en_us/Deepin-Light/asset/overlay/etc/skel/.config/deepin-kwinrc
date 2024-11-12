@@ -49,7 +49,7 @@ Meta=
 
 [MouseBindings]
 CommandAll1=Move
-CommandAll2="Toggle raise and lower"
+CommandAll2=Toggle raise and lower
 CommandAll3=Resize
 CommandAllKey=Meta
 CommandAllWheel=Change Opacity
