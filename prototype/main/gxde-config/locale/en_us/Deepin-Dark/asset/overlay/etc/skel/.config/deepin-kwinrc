@@ -45,7 +45,7 @@ Stiffness=1
 WobblynessLevel=4
 
 [ModifierOnlyShortcuts]
-Meta=
+Meta=Nothing
 
 [MouseBindings]
 CommandAll1=Move
