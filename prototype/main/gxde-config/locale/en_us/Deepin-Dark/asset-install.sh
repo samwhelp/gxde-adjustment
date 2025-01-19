@@ -4,14 +4,14 @@ set -e
 
 
 ################################################################################
-### Head: kde
+### Head: gxde
 ##
 
-kde_asset_install () {
+gxde_asset_install () {
 
 	echo
 	echo "##"
-	echo "## Asset: kde"
+	echo "## Asset: gxde"
 	echo "##"
 	echo
 
@@ -22,10 +22,8 @@ kde_asset_install () {
 
 }
 
-
-
 ##
-### Tail: kde
+### Tail: gxde
 ################################################################################
 
 
@@ -35,7 +33,7 @@ kde_asset_install () {
 
 main_asset_install () {
 
-	kde_asset_install
+	gxde_asset_install
 
 }
 
