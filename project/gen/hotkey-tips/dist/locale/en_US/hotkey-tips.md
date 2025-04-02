@@ -14,15 +14,15 @@
 | `Alt + Shift + d` | Rofi Show Drun |
 | `Alt + Shift + r` | Rofi Show Run |
 | `Alt + Shift + w` | Rofi Show Window |
-| `Alt + Shift + f` | Launch File Manager (dolphin) |
+| `Alt + Shift + f` | Launch File Manager (dde-file-manager) |
 | `Alt + Shift + g` | Launch File Manager (pcmanfm-qt) |
-| `Alt + Shift + e` | Launch Text Editor (kate) |
+| `Alt + Shift + e` | Launch Text Editor (gxde-editor) |
 | `Alt + Shift + b` | Launch Web Browser (firefox) |
-| `Alt + Shift + s` | Launch System Setting (systemsettings) |
-| `Alt + Enter` | Launch Terminal (konsole) |
-| `Alt + Shift + a` | Launch Terminal (konsole) |
+| `Alt + Shift + s` | Launch System Setting (dde-control-center -t) |
+| `Alt + Enter` | Launch Terminal (gxde-terminal) |
+| `Alt + Shift + a` | Launch Terminal (gxde-terminal) |
 | `Alt + Ctrl + a` | Launch Terminal (sakura) |
-| `Alt + Shift + t` | Launch Terminal (konsole) |
+| `Alt + Shift + t` | Launch Terminal (gxde-terminal) |
 | `Alt + Ctrl + t` | Launch Terminal (sakura) |
 | `Alt + Ctrl + y` | Launch DropDown Terminal (yakuake) |
 | `Win + q` | Window Close |
